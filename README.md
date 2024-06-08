@@ -19,3 +19,6 @@ Olá! eu sou Nicolas um estudante de desenvolvimento de jogos e futuro programad
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Pires2902&repo=ninja-frog-Adventure&bg_color=000&border_color=FF55A00&show_icons=true&icon_color=FF55A00&title_color=CC3300&text_color=CC3300)](https://github.com/Pires2902/ninja-frog-Adventure.git)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JottaFreitass&repo=Stella---Revolutions-is-comming&bg_color=000&border_color=FF55A00&show_icons=true&icon_color=FF55A00&title_color=CC3300&text_color=CC3300)](https://github.com/JottaFreitass/Stella---Revolutions-is-comming.git)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Pires2902&repo=alien-godot&bg_color=000&border_color=FF55A00&show_icons=true&icon_color=FF55A00&title_color=CC3300&text_color=CC3300)](https://github.com/Pires2902/alien-godot.git)
+
